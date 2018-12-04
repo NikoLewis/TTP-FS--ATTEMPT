@@ -1,0 +1,23 @@
+{
+  "name": "stock_app",
+  "version": "1.0.0",
+  "description": "web  based  stock  portfolio  app, for the  purpose  of  this  exercise  a  stock  is  simply  an  asset  that  can  be  bought  or  sold(like  a  house)  at  a  price  that  continuously  rises  and  falls  throughout  the  day. Data provided for free by [IEX](https://iextrading.com/developer)IEX. View IEX’s [Terms of Use](https://iextrading.com/api-exhibit-a/).”",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
+    "mustache": "^3.0.1",
+    "mustache-express": "^1.2.8",
+    "nodemon": "^1.18.7",
+    "pg-promise": "^8.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
